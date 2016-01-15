@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBin</string>
+    <string name="btnCambiar">Cambiar Nombre</string>
+</resources>
